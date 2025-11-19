@@ -47,12 +47,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinmisolaAjao&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinmisolaAjao&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SinmisolaE&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinmisolaE&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinmisolaAjao&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinmisolaE&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
